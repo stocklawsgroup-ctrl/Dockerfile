@@ -20,4 +20,4 @@ FROM ubuntu:20.04
   WORKDIR /app
   COPY . .
 
-  CMD ["/bin/sh", "-c", "ttyd -p ${PORT:-10000} bash"]
+CMD ["python3", "server.py"]
