@@ -19,4 +19,6 @@ FROM ubuntu:20.04
 
   WORKDIR /app
 
-  CMD ["/bin/sh", "-c", "/usr/sbin/shellinaboxd --no-beep -t --disable-ssl -p ${PORT:-10000} -s /:LOGIN"]
+  CMD ["/bin/sh", "-c", "shellinaboxd --no-beep -t -p ${PORT:-10000} -s '/:root:root:/:bash'"]
+
+
