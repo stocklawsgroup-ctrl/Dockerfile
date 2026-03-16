@@ -73,6 +73,25 @@ class Handler(BaseHTTPRequestHandler):
             """)
             return
 
+        # Debug endpoint
+        if parsed.path == "/debug":
+            tests = {}
+            for cmd, label in [
+                (["python3", "--version"], "python version"),
+                (["python3", "-c", "import playwright; print('playwright ok')"], "playwright import"),
+                (["python3", "-c", "import os; print(os.listdir('/app'))"], "app files"),
+                (["python3", "-c", "import json; f=open('/app/properties.json'); print(f.read())"], "properties.json"),
+                (["find", "/root/.cache/ms-playwright", "-name", "chrome", "-type", "f"], "chromium binary"),
+            ]:
+                try:
+                    r = subprocess.run(cmd, capture_output=True, text=True, timeout=10)
+                    tests[label] = (r.stdout + r.stderr).strip() or "(empty)"
+                except Exception as e:
+                    tests[label] = f"ERROR: {e}"
+            rows = "".join(f"<tr><td><b>{k}</b></td><td><pre>{v}</pre></td></tr>" for k, v in tests.items())
+            self.send_html(f"<h2>Debug</h2><table border=1 cellpadding=8>{rows}</table>")
+            return
+
         self.send_html("<h2>Not Found</h2>", status=404)
 
     def send_html(self, body, status=200):
