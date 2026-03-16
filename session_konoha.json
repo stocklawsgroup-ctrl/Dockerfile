@@ -8,7 +8,7 @@
       "expires": 1808201222.348226,
       "httpOnly": false,
       "secure": true,
-      "sameSite": "Lax"
+      "sameSite": "Lax" 
     },
     {
       "name": "everest_cookie",
