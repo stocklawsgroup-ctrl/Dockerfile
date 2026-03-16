@@ -1,0 +1,955 @@
+{
+  "cookies": [
+    {
+      "name": "bev",
+      "value": "1773556295_EAYzVmMThjNDU5Nz",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808201071.779683,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "everest_cookie",
+      "value": "1773556295.EANzllODM5NmE3NWQ1Nm.H6ofZc8ij7nSwYqxAKlTKkqsBdBShQ44e2Pt57nNRpg",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808116296.483598,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cdn_exp_abd8871b54fcbadab",
+      "value": "treatment",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1778740296.483695,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bev",
+      "value": "1773556295_EAYzVmMThjNDU5Nz",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808132306.344071,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "everest_cookie",
+      "value": "1773556295.EANzllODM5NmE3NWQ1Nm.H6ofZc8ij7nSwYqxAKlTKkqsBdBShQ44e2Pt57nNRpg",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808132234.93608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cdn_exp_abd8871b54fcbadab",
+      "value": "treatment",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1778740297.193965,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cfrmfctr",
+      "value": "DESKTOP",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789453897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "frmfctr",
+      "value": "wide",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789453897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.54523092.1773556298",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1781332298,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cci",
+      "value": "cban%3Aac-cc6c74c6-384e-4e56-92c3-4144739e16d6",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789453898,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ccv",
+      "value": "cban%3A0_183215%3D1%2C0_200000%3D1%2C0_183345%3D1%2C0_183243%3D1%2C0_183216%3D1%2C0_179751%3D1%2C0_200003%3D1%2C0_200005%3D1%2C0_179750%3D1%2C0_179737%3D1%2C0_179744%3D1%2C0_179739%3D1%2C0_179743%3D1%2C0_179749%3D1%2C0_200011%3D1%2C0_183217%3D1%2C0_183219%3D1%2C0_179747%3D1%2C0_179740%3D1%2C0_179752%3D1%2C0_183241%3D1%2C0_200007%3D1%2C0_210000%3D1%2C0_210001%3D1%2C0_210002%3D1%2C0_210003%3D1%2C0_210004%3D1%2C0_210010%3D1%2C0_210012%3D1%2C0_210008%3D1%2C0_210016%3D1%2C0_210017%3D1%2C0_210018%3D1%2C0_210020%3D1%2C0_210021%3D1%2C0_210022%3D1",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789453898,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__lt__cid",
+      "value": "069baf9d-73aa-4524-8781-1c04bb53ff17",
+      "domain": ".www.airbnb.jp",
+      "path": "/",
+      "expires": 1808116298.461212,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ldbrbid",
+      "value": "tr__k1y/XGm2Ukl7Sek24DEhAg==",
+      "domain": ".line.me",
+      "path": "/",
+      "expires": 1808200996.20783,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sc_at",
+      "value": "v2|H4sIAAAAAAAA/wXBgQ0AIAgDsItIBMS5dwS9guNt1cq87IlWHJlECjdTUuHDL7A4uxXwiGVEjw8crHwQMgAAAA==",
+      "domain": ".snapchat.com",
+      "path": "/",
+      "expires": 1807252298.599493,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1639428452.1773556299",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116298.624291,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_r",
+      "value": "_",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789108298,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_lu",
+      "value": "https://www.airbnb.jp/login?redirect_url=%2Fmulticalendar&_set_bev_on_new_domain=1773556295_EAYzVmMThjNDU5Nz&set_everest_cookie_on_new_domain=1773556295.EANzllODM5NmE3NWQ1Nm.H6ofZc8ij7nSwYqxAKlTKkqsBdBShQ44e2Pt57nNRpg",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789108298,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_did",
+      "value": "pscrb_b49e895a-5f6f-4662-e6a2-ba8302d904f9",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789108298,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_fva",
+      "value": "1773556298669",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789108298,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".pinterest.com",
+      "path": "/",
+      "expires": 1805176996.444728,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.K4Q4UGTCa0MVMSqdhNtGsOgQMXdF4Zn%2BBJ7O2y6yDms%3D.1773556299",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116400.217991,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.1.54523092.1773556298",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1781332298.95666,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "2a85eeba-0d2f-4cb5-7e74-545696fc1923",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1805092299.093186,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hli",
+      "value": "1",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116399.561078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_aaj",
+      "value": "32%7C2%7CNAqOmj3wuwSqLJAtuwjiO8%2BBa5pgdamFxfN7ClWG9YHsRHZmKBfmBCsMw4Xm9jh%2F%2BeDLrk8gTOsk02HzLSlB2mX2oBsciYxjkU2rG9khIuzLU7K%2FZAKI6Kbl1R5aYVOaBMc%2FiN%2B1OBFY3LIwp3iQvfzhPYoOsDOlyX7WB9BM8PlFc8pCiJGKKHRoc1Rw3SXP%2Bo0ZjM2efvP3nBWk6IWfFeiwFQUXAdEnJv0KplMoVH%2BSzduHvPB%2FcrHRfW6y%2FQUCqfLJyZMh2Bm63UBVhQwJLNWp3VVvAQLuNBLC%2FEkPfmlHtETwCeQkH1OljHGtTEkTN9vkUcDHwbGXRtNf2vwqk0iCfOMhoqITEfb55Ys0HmSXKStyA6Up%2Bes%2F0KD65a%2B28%2Fw%2FXFpaxpvFixrYndQSMtUntdV8PzGQ1MyVNANDz3RtBp7kSaI4xfHWz4KsZ2f9W1jnDMd5SS%2FMYnIjBN%2FaZqBgHZuS5jdgJhznIBY1FzMKi9dA3%2F6z9kh482SQFrpdA3ySdCXHKrMKd8BjUi3Gnhdbyx%2F84G8Iv9fBN%2FXt%2BqYtwvSrDTWoY8EJ2KZ3Zi%2B9zoDOdUEFV8hJiyP47vZggIJrpC6JEN%2BqOLVOw1%2Fh3q2g3dTE4TuNX6jeznL7dqsFZ%2FJL3x0uZiVHwy8T1Y%2B9G%2B9SRHCLcbEbQn22gXGqHA6%2F22cs8mPjHyTyJlvLNAReA931jtAk3eLyxwvaV4snP4axsCuxOGHC8R9UICZT4uXQBtZNTHnQOC50aEjHUMz9rGHi21hAAPNK9FrdIYCcKQwIM8kp4GjdoO8R19dK9JiQ1EZvHhbXItApzsY1rX6EN88lZtakTAX6qNTmPSQyVLsZslFdp8Emwe7DjWLUNLoIL%2BIOxIsojTMcyFFGSraOheVmTQQhv6qXYTrv0X%2Bxj%2Fh0jTEZ2ASV0ysPZTM%2F",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116399.561105,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_aat",
+      "value": "0%7CMc3BXYJItAjz0wx3HsnRpe41TxWntZppgTcaVzaN1SbJwHFpM38LNwvVRey4lv7G",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116399.561141,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li",
+      "value": "1",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116399.561166,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rclu",
+      "value": "8%7C2%7CZ8b%2BFigHhsOnS0sDQNZZXQnwvCVQdR5DqYMlmv94pynaz8OmxIPn2viN7txVfbf4YWXlabERSG4z5b0%3D",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116399.561229,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_airbed_session_id",
+      "value": "d99fe8aca229e6f4cfef2bd5cd7ae41b",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116399.561292,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_user_attributes",
+      "value": "%7B%22id_str%22%3A%2262376493%22%2C%22curr%22%3A%22JPY%22%2C%22id%22%3A62376493%2C%22is_admin%22%3Afalse%7D",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789469834.37148,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_2P6Q8PGG16",
+      "value": "GS2.1.s1773556298$o1$g1$t1773556399$j60$l0$h1108308191",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1808116399.946126,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tzo",
+      "value": "540",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789469835,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cbkp",
+      "value": "3",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1789454002,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "previousTab",
+      "value": "%7B%22id%22%3A%224d587c07-3562-4316-87e6-ac51185877ea%22%7D",
+      "domain": ".www.airbnb.jp",
+      "path": "/",
+      "expires": 1789469835,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jitney_client_session_id",
+      "value": "7d833a33-9e1c-4219-a405-0309efd471b7",
+      "domain": ".www.airbnb.jp",
+      "path": "/",
+      "expires": 1789469833,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jitney_client_session_created_at",
+      "value": "1773572233.821",
+      "domain": ".www.airbnb.jp",
+      "path": "/",
+      "expires": 1789469833,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jitney_client_session_updated_at",
+      "value": "1773572236.081",
+      "domain": ".www.airbnb.jp",
+      "path": "/",
+      "expires": 1789469836,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datadome",
+      "value": "yvk~E3MJFl8MleFIeCrXEI2Xow4DKWua9d4MHb1VGHbscqt8x02kF2byu~dSfvtDDXZQ_5Y~JBzwQhpXxhl_IM0l9SCWl0caZDFLhLXSSqZ0QWnQMAmg42aJQBem2o7G8MyK8ArF3U5UUdfubvl0i0",
+      "domain": ".airbnb.jp",
+      "path": "/",
+      "expires": 1805108306.344198,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "value": "46A2476AF1A3F99FE08277EC543F65AB~000000000000000000000000000000~YAAQER/VFwBscc2cAQAAS9s49R+Hc8ESYZEckGnyPxPqFwUVpWrMJCOWqguLzahaipmCxuLwxpYJaO5XgS967jF/EQ0YlScTZfFrkQUxx4UQypIuwLmJysaQiSG5znwPJZfQsdJpJ2aeb5lEsmHk1OhJ3mky4JNKh2An2zSpCCiuKB9u+OEq2l9Vv5sIf7z+FfdzA1x98QcBmmF0O/WVc46dCAsh0WvPir4Ob1vV3I6Uz9GE52WAxet83NA7pi3MUEyo8Pcj0SHQ9GXLP1aNqA2ixeIZ3y6duCLiWKpn4xgXoL5cZNQnhqiei7uUuplkh7KeYhZGyCIdPhpFzwEe0K0+5+zGuVtp+LayqoG9ZDpLoTR58s9y7M+FG724qOxofaOv",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1773647869.986399,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jitney_client_session_id",
+      "value": "30b2c273-72ca-4a7a-a5fc-7b925c8b1136",
+      "domain": ".www.airbnb.com",
+      "path": "/",
+      "expires": 1789538271,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jitney_client_session_created_at",
+      "value": "1773640671.956",
+      "domain": ".www.airbnb.com",
+      "path": "/",
+      "expires": 1789538271,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cfrmfctr",
+      "value": "DESKTOP",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789538271,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "frmfctr",
+      "value": "wide",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789538271,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cci",
+      "value": "cban%3Aac-b0b2106a-28d7-461d-bf39-fa1292d2f343",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789538272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ccv",
+      "value": "cban%3A0_183215%3D1%2C0_200000%3D1%2C0_183345%3D1%2C0_183243%3D1%2C0_183216%3D1%2C0_179751%3D1%2C0_200003%3D1%2C0_200005%3D1%2C0_179750%3D1%2C0_179737%3D1%2C0_179744%3D1%2C0_179739%3D1%2C0_179743%3D1%2C0_179749%3D1%2C0_200011%3D1%2C0_183217%3D1%2C0_183219%3D1%2C0_179747%3D1%2C0_179740%3D1%2C0_179752%3D1%2C0_183241%3D1%2C0_200007%3D1%2C0_210000%3D1%2C0_210001%3D1%2C0_210002%3D1%2C0_210003%3D1%2C0_210004%3D1%2C0_210010%3D1%2C0_210012%3D1%2C0_210008%3D1%2C0_210016%3D1%2C0_210017%3D1%2C0_210018%3D1%2C0_210020%3D1%2C0_210021%3D1%2C0_210022%3D1",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789538272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.257750526.1773640672",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1781416672,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_r",
+      "value": "_",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789192672,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_sr",
+      "value": "_",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1773642796,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_lu",
+      "value": "https://www.airbnb.com/login?redirect_url=%2Fmulticalendar",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789192672,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_slu",
+      "value": "https://www.airbnb.com/login?redirect_url=%2Fmulticalendar",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1773642796,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_fva",
+      "value": "1773640672460",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789192672,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "f27af49c-4f9a-43f4-b179-a7a4ec1e654a",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1805176996.4721,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1507401665.1773640673",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808200996.186231,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KRTBCOOKIE_377",
+      "value": "6810-f27af49c-4f9a-43f4-b179-a7a4ec1e654a&KRTB&22918-f27af49c-4f9a-43f4-b179-a7a4ec1e654a&KRTB&22926-f27af49c-4f9a-43f4-b179-a7a4ec1e654a&KRTB&23031-f27af49c-4f9a-43f4-b179-a7a4ec1e654a",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781416672.659505,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1773640671",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1776232672.65955,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__lt__cid",
+      "value": "b41e4d2d-58a1-40d9-ae87-42c52cda1ecf",
+      "domain": ".www.airbnb.com",
+      "path": "/",
+      "expires": 1808200996.122295,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__lt__sid",
+      "value": "c97d573d-68a5d7a8",
+      "domain": ".www.airbnb.com",
+      "path": "/",
+      "expires": 1773642796,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmU1Crx3GAOrKgdKGGaQDOiEi96xaC5ccAV0y1K6lBJr7WbwFKHuNGPrw9vcMs",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1808200672.762731,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.lwVQphIBlJeazk2wBexc0vP1jqUk2dDsf4jW37h3gcY%3D.1773640673",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808200996.634659,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.1.257750526.1773640672",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1781416673.443951,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|ewltmJObrHZdH3jOzlvYycrqvPzYgEMXWJMXakwgJwdqURoNIpgoa65n2vv+H4Y4mxk4Sg9JankwHTRO1/p4iHX0qfg68IpFQAPcN3ARK84nfYkWLraoxifsBffgNe/z5wgX8UNJC/SWUO7VlABom8dWzJM3hr6o+2WsRIh6IXbREvsM2ra73MRmS8gGs6ylTlon0IrnE1p4+byUJuUHKNl4Am3SUH3rwETMVR8lnVPictVKI3nW/ZSmfFa9k+2RfCCm1vF3Tgn8ih/oL8+08tuVaVkDFDbShAUs62yL6R/QD5U7tEfUTQ==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1805176672.936607,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://airbnb.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "khaos",
+      "value": "MMSRV16T-1F-KWK4",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1805176672.936694,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MMSRV16T-1F-KWK4",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1805176672.936718,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://airbnb.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|ewltmJObrHZdH3jOzlvYycrqvPzYgEMXWJMXakwgJwdqURoNIpgoa65n2vv+H4Y4mxk4Sg9JankwHTRO1/p4iHX0qfg68IpFQAPcN3ARK84nfYkWLraoxifsBffgNe/z5wgX8UNJC/SWUO7VlABom8dWzJM3hr6o+2WsRIh6IXbREvsM2ra73MRmS8gGs6ylTlon0IrnE1p4+byUJuUHKNl4Am3SUH3rwETMVR8lnVPictVKI3nW/ZSmfFa9k+2RfCCm1vF3Tgn8ih/oL8+08tuVaVkDFDbShAUs62yL6R/QD5U7tEfUTQ==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1805176672.936758,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FPLC",
+      "value": "l70%2FPBIQCmJnZ1KYo4VGvBYLd8n%2Fn0A0yz6BEANLRR%2FSg8apnV5WYbXiOkOPVDqoq9GVVTsVO%2B54hIdT3vHFCmCA7F1mmRD0t2IASXZY715i374pF4zK6aIcv6RqWQ%3D%3D",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1773712673.018461,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "eec1a071-67dc-4c9f-ca15-af84e6e46681",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1805176673.018509,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "country",
+      "value": "JP",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tzo",
+      "value": "540",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789538595,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "previousTab",
+      "value": "%7B%22id%22%3A%22f5a58a6b-5a12-4ab1-899f-6e47552c968f%22%7D",
+      "domain": ".www.airbnb.com",
+      "path": "/",
+      "expires": 1789538595,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cbkp",
+      "value": "3",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789538595,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jitney_client_session_updated_at",
+      "value": "1773640995.84",
+      "domain": ".www.airbnb.com",
+      "path": "/",
+      "expires": 1789538595,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ps_did",
+      "value": "pscrb_1444e971-39c8-4ca7-b7ec-899212bb9cce",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789192996,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "abedI24sB8AABC9uAdhnQQAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1805176996.421957,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "5916",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1781416996.3958,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "5916",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1781416996.422025,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "7c3e3e33-1b7a-40d6-b5b8-6e502564f151",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1805176996.43253,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1773640995",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1805176996.409134,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1773640995",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1805176996.432604,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FPGSID",
+      "value": "1.1773640671.1773640995.G-2P6Q8PGG16.L99iG5lPgSQp-ftqbZKdNQ",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1773642472.443993,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pinterest_ct_ua",
+      "value": "TWc9PSZZbktWcVA3REM5WHFBMm5JNWNSMDNvVW5nTFJHSnVIRi9PdG9LK0haSi9IVHBnRDQvdW03UG5TSU9DWWsvY3ZkMUw1V3pEeHBjOHVwL2pvdDVJdzJTeG1lVGlFNDlhbzJFQllpNmJzMmFJaz0mZC9sRThBMHM3Vk5XN2FKd1EvOWxjTVMxaWx3PQ==",
+      "domain": ".ct.pinterest.com",
+      "path": "/",
+      "expires": 1805176996.444771,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFQoGZ29vZ2xlEgsIzLfB4N_KgT8QBRIWCgdydWJpY29uEgsI8N7E3t_KgT8QBRIXCghwdWJtYXRpYxILCKSUxd7fyoE_EAUSGAoJYmlkc3dpdGNoEgsI3pmC7vfKgT8QBRIVCgZjYXNhbGUSCwju24Lu98qBPxAFGAUgASgGMgsI9tyEm47LgT8QBUIPIg0IARIJCgV0aWVyMhABWgdpa2FmeGQyYAE.",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1805176996.472175,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pt",
+      "value": "1--WyJiMjFmNjY0MzI5MWM0ZjNhMWMyMTVkZmY3MjFmNmM4OTg4YjkyOGZlIl0%3D--5958007a6402e162172a6501bb101359b2a53df9",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hli",
+      "value": "1",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808201071.435613,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_aaj",
+      "value": "32%7C2%7Cs3UZFIhXy01GQokTM%2B0XkBWc%2FUux7EBIpUERutgl6VHFZHX%2FTT6AvdkugYLSASnD8ljbR4BnlO8wmw60o8sxggNiewSBdOLL2TjZsFMwr3OhjCm1%2F%2BOmiMDJsiCLhKr0mrWJ78bTmqbQLDWNYfYs%2F5e%2B01BCp4s5AG5fDAQNZVyr6q3Rq%2FSh4wjg%2BJc7wuiI5w%2BDDHsVXvHigSyJJgxBIa4IiM2dGiqGNblyJ9OTg5Djw1cUNGgrciLFEm%2FlfEYO6VSHq4fv2%2BCliRaUEWktLS7QIATa%2FbqPuLNONq7WnTjeROBKCV5fnvcW%2B2U5Ag3XVk%2BDLgh2urX7I0J0yeXpZQmZTkKhJBsDkZr3Nfhd2BZymViEKUeeei2CEIwKZpQRJKUDGn633n%2FepNQiufjyLLJm%2FwBE%2FBULYJ71NEqXK8WH5OhbYebvD7tN7fIMg9AWZ0%2Bpri%2B%2F%2BJSO%2FBg4%2FuuagXtZyr319O9barDBegivqpPVQZGs6nF9uYdFXp%2Fu%2Bhc9lmrl0FoxQQrTObThR5G4UgUlnvQNC%2BgTl8qLlI1t%2BKyAH8VqZYLrDTasRPxGv8DiFMsfGvmrkmEb3lFVefmK3RqnyPvxWm0nf%2FuwPAf44aVkQZk%2FSdQm2owhzMm6QkFb%2FY%2BF%2F6E9UPbzYAe1RBdRV21SmMxV1qD3qJ4GT5tpmbFsERvYqeY9y1v4zYMs3bgOQlz72%2BxqVGqtOJXU7SiJ2L630npLOn7LWQo%2B5MuFpy7e7xC7vDYeAiYl9QIMH2lZZfwZvNFVO4E7LrmJSJ%2FtzZlBcLRaGcok1XgJPt57c4mUYusAyDvHPURhbEBwKCwcU5ISiugfcurGZQ2D64SMBvhGlR8T9wQXsSZkEfxWITjXbZQTd2nCeNpUXosXXw3ImBbuoZzR1JwwIjpF28%2B%2BDcqQzgk5zzp4Um3fq8d0",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808201071.435825,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_aat",
+      "value": "0%7CJeC4b871ptwoCmyWbdpbNZPudbSz%2FNVZ3azy7aiWIpvo42BZYrn9Nw15Dt1OsJtu",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808201071.436137,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li",
+      "value": "1",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808201071.436339,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rclu",
+      "value": "8%7C2%7C6cdTMLXjtkPI5Q3oiOMxDdm0xK2oLK1Cpd1JSePnT3xxhSdBXHsyXZN105%2B4NZi0Qm2kRkAyHqLUezQ%3D",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808201071.436905,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_airbed_session_id",
+      "value": "4e9b547fccb52ccc610dbbb0657e0878",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808201071.437458,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_user_attributes",
+      "value": "%7B%22curr%22%3A%22JPY%22%2C%22id%22%3A62376493%2C%22id_str%22%3A%2262376493%22%2C%22is_admin%22%3Afalse%7D",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1789538670.779596,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datadome",
+      "value": "QPzRVrpZZjmt3L5Ul~lJsm55Gv0vlYVQwfjzYB7K_oJ2ei52O45bVlJaakuLU2djTopZLf_QYMGAjQUAK4ilMFQ8kXR0pin3~ALxJ671SNS4IlurjGl41EqCRGYV_b7TpxM3eqSOuYcQa~M3QczRG0",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1805177071.77974,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "value": "745116BC62ECB5D27B15E89C55DE3FA6~YAAQER/VF8M3dM2cAQAA5fg+9R+t52LWMN965zGK+RuGYPjsdDA7gjyYdiXzg182Q2Bh+ToZ8Fj1CLEtoS3Rsw7uKPWxm65IfnqD2XMHw/gBC1h9ZTYkBi/cvyWBPuCOOBG7BQibRvnqqY2bcTDZJpdkog6usJkRZWfcO4dlc4QbsaNf59wnxUmMZInjuExN2x+oU9hDCxWMF0oVrWbAv3CHgHsI8h9tQ1DUhbQ+MaODfam/bqjYtVRQAg7x2Dk0rQ==~1",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1773647871.779833,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_2P6Q8PGG16",
+      "value": "GS2.1.s1773640672$o1$g1$t1773641071$j60$l0$h964671588",
+      "domain": ".airbnb.com",
+      "path": "/",
+      "expires": 1808201071.785492,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.airbnb.com",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"creationTimeMs\":1773640672364},\"expires\":1781416672364}}"
+        },
+        {
+          "name": "/v2/get-data-layer-variables/-bevId-1773556295-EAYzVmMThjNDU5Nz-userDataFields-AUDIENCE-TYPE-EXPERIENCE-AUDIENCE-TYPE-SERVICE-AUDIENCE-TYPE-",
+          "value": "{\"d\":{\"userData\":{\"audienceType\":\"booker\",\"experienceAudienceType\":\"user\",\"serviceAudienceType\":\"user\",\"activityAudienceType\":\"user\"},\"stayListingData\":{},\"stayReservationData\":{},\"experienceListingData\":{},\"experienceReservationData\":{\"serviceFeesInUSD\":0},\"activityListingData\":{},\"activityReservationData\":{\"serviceFeesInUSD\":0}},\"e\":1773727396109}"
+        },
+        {
+          "name": "jitney_page_name_/login",
+          "value": "{\"d\":7000,\"e\":1773644595840}"
+        },
+        {
+          "name": "__lt__cid",
+          "value": "b41e4d2d-58a1-40d9-ae87-42c52cda1ecf"
+        },
+        {
+          "name": "tab-tracking-v2-tabTimestamp-63c9197f-617c-4c22-a151-d377bea648a9",
+          "value": "{\"d\":\"1773640671677\",\"e\":1774850271677}"
+        }
+      ]
+    }
+  ]
+}
