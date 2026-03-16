@@ -18,6 +18,7 @@ FROM ubuntu:20.04
   RUN echo 'root:root' | chpasswd
 
   WORKDIR /app
+  COPY . .
 
   CMD ["/bin/sh", "-c", "shellinaboxd --no-beep -t -p ${PORT:-10000} -s '/:root:root:/:bash'"]
 
